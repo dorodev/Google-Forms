@@ -1,0 +1,54 @@
+h1{
+    text-align: center;
+    font-family:FangSong ;
+    padding-left: 30px;
+    font-size:45px ;
+    
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    box-sizing: border-box;
+    /* text-align: center; */
+  
+    
+
+}
+
+input[type=text], select, textarea {
+  width: 30%;
+  padding: 12px 20px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  resize: vertical;
+  
+}
+
+.RegForm{
+  margin: auto;
+  /* align:center; */
+  width: 60%;
+}
+
+.button1 {
+  background-color:white;
+} 
+.button2 {
+  background-color: lightblue;
+  margin-left:15px ;
+}
+
+#image{
+  float: right;
+  margin-bottom: auto 0;
+}
+
+#information{
+  float: right;
+}
+
+
+
